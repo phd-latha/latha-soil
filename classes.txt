@@ -1,0 +1,7 @@
+Clayey soils
+Loamy Sand soil
+Loamy soil
+Sandy Clay soil
+Sandy loam
+Sandy soil
+Silt soil
